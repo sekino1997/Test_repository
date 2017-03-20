@@ -16,6 +16,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Delete Files
 *.pidb
 *.unityproj
 *.sln
